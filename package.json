@@ -32,7 +32,8 @@
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
-        "async": "*"
+        "async": "*",
+        "blake2": "*"
     },
     "engines": {
         "node": ">=0.10"
